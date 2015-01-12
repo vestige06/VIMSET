@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/root/.vim'
+let g:netrw_dirhist_2='/root/.vim/doc'
+let g:netrw_dirhist_3='/mnt/ves/program/api.hx9999.com/library/frontend'
+let g:netrw_dirhist_4='/mnt/ves/program/myid.hx9999.com'
+let g:netrw_dirhist_5='/mnt/ves/program/myid.hx9999.com/htdocs/cn'
+let g:netrw_dirhist_6='/usr/src/freebsd-releng-9.2/sys/conf'
+let g:netrw_dirhist_7='/mnt/ves/program/mq.hx9999.com/finance_mtf_report_day'
+let g:netrw_dirhist_8='/mnt/ves/program/mq.hx9999.com/finance_mtf_report_day/lib'
+let g:netrw_dirhist_9='/root/.ssh/gitolite-admin/conf'
