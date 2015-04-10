@@ -151,3 +151,6 @@ inoremap <C-l> <Right>
 
 "split {} F8 KEY
 :map <F8> <ESC> : s/}/\r}/g<CR> kvj=
+
+"EXCTAGE ...
+set tags=tags;/
