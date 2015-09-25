@@ -8,8 +8,8 @@ set fileencoding=utf-8
 set fileformats=unix,dos
 "Highlight settings . 
 colorscheme busybee
-colorscheme summerfruit256
-syntax on 
+"colorscheme summerfruit256
+"syntax on 
 "indent line
 set list
 set lcs=tab:\|\ 
@@ -154,3 +154,5 @@ inoremap <C-l> <Right>
 
 "EXCTAGE ...
 set tags=tags;/
+set nocompatible
+set backspace=indent,eol,start
