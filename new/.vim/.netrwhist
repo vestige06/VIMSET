@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/etc/nginx/conf.d'
+let g:netrw_dirhist_2='/data/www/jjy/console/controllers'
+let g:netrw_dirhist_3='/root/.vim/bundle/ctrlp.vim'
+let g:netrw_dirhist_4='/data/www/jjy/console/controllers'
+let g:netrw_dirhist_5='/data/soft/php-7.0.30/lib/php'
+let g:netrw_dirhist_6='/data/www/jjy'
+let g:netrw_dirhist_7='/data/www/jjy/backend'
+let g:netrw_dirhist_8='/data/www/jjy/backend/component'
